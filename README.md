@@ -1,7 +1,10 @@
 # miniguia-estudos-notebooklm
 Um mini guia de estudos no notebooklm com o tema fitoterapia.
 O objetivo desse estudo desse material é ajudar no aprendizado da pós de fitoterapia da faculdade.
-Utilizei as perguntas em aula e comparei as respostas com as respondidas em aula.
+Utilizei as perguntas em aula e comparei as respostas com as respondidas em aula, dentro do chat gerei videos e cards que ajudaram bastante no entendimento do assunto abordado.
+
+Link do chat criado no NotebookLM: https://notebooklm.google.com/notebook/072c2000-d44a-48cf-ae87-5135587d4665
+
 Este resumo estruturado abrange a aplicação da fitoterapia em diversas desordens orgânicas, baseando-se nos mecanismos de ação, indicações e segurança das plantas medicinais descritas nas fontes.
 
 Mini guia de estudo
