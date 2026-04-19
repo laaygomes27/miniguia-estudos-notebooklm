@@ -53,46 +53,46 @@ Glossário..
 
 Com base nos materiais fornecidos, elaborei um glossário com os principais conceitos técnicos e terapêuticos abordados no estudo da fitoterapia aplicada a diversas desordens orgânicas:
 Adaptógeno: Substância que auxilia o organismo a manter a homeostase, melhorando o desempenho físico, promovendo vitalidade e aumentando a resistência ao estresse e ao envelhecimento, como o Ginseng
-.
-Ansiolítico: Fitoterápico utilizado para reduzir os sintomas de ansiedade e tensão nervosa, agindo frequentemente através da modulação do sistema GABA (ex: Valeriana e Passiflora)
-.
-Artrite Reumatoide: Patologia autoimune sistêmica associada a um processo inflamatório crônico que causa a erosão da cartilagem e do tecido ósseo nas articulações
-.
-Carminativo: Agente que auxilia na expulsão de gases do trato digestivo, aliviando a flatulência e o desconforto abdominal
-.
-Colagogo: Substância que estimula a contração da vesícula biliar, promovendo o esvaziamento da bile no intestino
-.
-Colerético: Fitoterápico que aumenta a produção de bile pelo fígado
-.
-Demulcente: Erva que contém mucilagem e exerce uma ação calmante e anti-inflamatória, especialmente útil para tosse seca e irritação na garganta (ex: Alteia)
-.
-Destoxificação Hepática: Processo fisiológico vital realizado pelo fígado para neutralizar e eliminar toxinas (xenobióticos) em duas fases: a Fase I (oxidação via citocromo P450) e a Fase II (conjugação para tornar a toxina hidrossolúvel)
-.
-Dislipidemia: Desordem metabólica caracterizada por níveis anormais de lipídeos no sangue, como colesterol elevado (LDL) ou níveis baixos de HDL, facilitando a aterosclerose
-.
-Dispepsia: Condição clínica caracterizada por náusea, inchaço, flatulência e dor abdominal, geralmente ligada a deficiências na secreção gástrica ou biliar
-.
-Espasmolítico: Agente que relaxa a musculatura lisa do trato gastrointestinal ou das vias biliares, reduzindo cólicas e espasmos
-.
-Expectorante: Medicamento que liquefaz o escarro viscoso, facilitando sua eliminação através da tosse
-.
-Fitoterapia: Terapêutica caracterizada pelo uso de plantas medicinais em diferentes formas farmacêuticas, sem a utilização de substâncias ativas isoladas
-.
-Gota: Forma de artrite inflamatória metabólica causada pela deposição de cristais de urato monossódico nas articulações, associada a altos níveis de ácido úrico no sangue
-.
-Hiperplasia Benigna da Próstata (HBP): Crescimento não maligno da próstata que comprime a uretra, causando sintomas urinários em homens idosos
-.
-Imunomodulador: Substância que atua no sistema imunológico para prevenir ou tratar infecções, como no caso da Equinácea no tratamento de resfriados
-.
-Laxante Antranoide: Substância que contém derivados antraquinônicos (como o Sene ou a Cáscara Sagrada) que estimula o peristaltismo intestinal; não deve ser usado de forma crônica por danificar as células epiteliais
-.
-Medicamento Fitoterápico: Produto obtido exclusivamente de matérias-primas vegetais, com eficácia, segurança e qualidade padronizadas e validadas cientificamente
-.
-Metainflamação: Inflamação crônica de baixo grau e persistente associada à obesidade e ao metabolismo alterado
-.
-Programação Metabólica: Processo em que estímulos ou estresses durante o desenvolvimento fetal geram respostas permanentes que predispõem o indivíduo a doenças na vida adulta
-.
-Xenobiótico: Composto químico estranho ao organismo (como pesticidas, poluentes ou drogas) que precisa ser processado e eliminado
+
+* Ansiolítico: Fitoterápico utilizado para reduzir os sintomas de ansiedade e tensão nervosa, agindo frequentemente através da modulação do sistema GABA (ex: Valeriana e Passiflora)
+
+* Artrite Reumatoide: Patologia autoimune sistêmica associada a um processo inflamatório crônico que causa a erosão da cartilagem e do tecido ósseo nas articulações
+
+* Carminativo: Agente que auxilia na expulsão de gases do trato digestivo, aliviando a flatulência e o desconforto abdominal
+
+* Colagogo: Substância que estimula a contração da vesícula biliar, promovendo o esvaziamento da bile no intestino
+
+* Colerético: Fitoterápico que aumenta a produção de bile pelo fígado
+
+* Demulcente: Erva que contém mucilagem e exerce uma ação calmante e anti-inflamatória, especialmente útil para tosse seca e irritação na garganta (ex: Alteia)
+
+* Destoxificação Hepática: Processo fisiológico vital realizado pelo fígado para neutralizar e eliminar toxinas (xenobióticos) em duas fases: a Fase I (oxidação via citocromo P450) e a Fase II (conjugação para tornar a toxina hidrossolúvel)
+
+* Dislipidemia: Desordem metabólica caracterizada por níveis anormais de lipídeos no sangue, como colesterol elevado (LDL) ou níveis baixos de HDL, facilitando a aterosclerose
+
+* Dispepsia: Condição clínica caracterizada por náusea, inchaço, flatulência e dor abdominal, geralmente ligada a deficiências na secreção gástrica ou biliar
+
+* Espasmolítico: Agente que relaxa a musculatura lisa do trato gastrointestinal ou das vias biliares, reduzindo cólicas e espasmos
+
+* Expectorante: Medicamento que liquefaz o escarro viscoso, facilitando sua eliminação através da tosse
+
+* Fitoterapia: Terapêutica caracterizada pelo uso de plantas medicinais em diferentes formas farmacêuticas, sem a utilização de substâncias ativas isoladas
+
+* Gota: Forma de artrite inflamatória metabólica causada pela deposição de cristais de urato monossódico nas articulações, associada a altos níveis de ácido úrico no sangue
+
+* Hiperplasia Benigna da Próstata (HBP): Crescimento não maligno da próstata que comprime a uretra, causando sintomas urinários em homens idosos
+
+* Imunomodulador: Substância que atua no sistema imunológico para prevenir ou tratar infecções, como no caso da Equinácea no tratamento de resfriados
+
+* Laxante Antranoide: Substância que contém derivados antraquinônicos (como o Sene ou a Cáscara Sagrada) que estimula o peristaltismo intestinal; não deve ser usado de forma crônica por danificar as células epiteliais
+
+* Medicamento Fitoterápico: Produto obtido exclusivamente de matérias-primas vegetais, com eficácia, segurança e qualidade padronizadas e validadas cientificamente
+
+* Metainflamação: Inflamação crônica de baixo grau e persistente associada à obesidade e ao metabolismo alterado
+
+* Programação Metabólica: Processo em que estímulos ou estresses durante o desenvolvimento fetal geram respostas permanentes que predispõem o indivíduo a doenças na vida adulta
+
+* Xenobiótico: Composto químico estranho ao organismo (como pesticidas, poluentes ou drogas) que precisa ser processado e eliminado
 
 
 Prompts..
